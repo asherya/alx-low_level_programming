@@ -1,1 +1,1 @@
-Write a script that prints exactly "programming is like building a multilingual puzzle, followed by a new line
+Write a C program that prints exactly with proper grammer, but the outcome is a piece of art, , followed by a new line
